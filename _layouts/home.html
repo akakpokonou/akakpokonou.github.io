@@ -2,15 +2,6 @@
 layout: default
 ---
 
-<<<<<<< Updated upstream
-<div class="content">
-<div class="primary">
-<!-- Le contenu principal vient ici -->
-</div>
-<div class="secondary”>
-<!-- La navigation et le contenu secondaire viennent ici -->
-</div>
-=======
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <h3 class="fw-bold">Research</h3>
@@ -19,28 +10,10 @@ layout: default
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
   </div>
->>>>>>> Stashed changes
 </div>
 
-.content .primary {
-width: 650px;
-padding-right: 20px;
-float: right;
-display: inline;
-}
-.content .secondary {
-width: 230px;
-float: left;
-display: inline;
-}
+{% include publications.html %}
 
-<<<<<<< Updated upstream
- .content {
-overflow: hidden;
-}
- 
- 
-=======
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
@@ -49,4 +22,3 @@ overflow: hidden;
     {% endfor %}
   </div>
 </div>
->>>>>>> Stashed changes
