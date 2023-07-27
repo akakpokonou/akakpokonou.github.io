@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "Welcome to my homepage"
+  spec.name          = 
   spec.version       = "1.0.0"
   spec.authors       = ["Paul Le"]
   spec.email         = ["hello@paulle.ca"]
 
-  spec.summary       = "Welcome to my homepage"
+  spec.summary       = 
   spec.homepage      = "https://github.com/akakpokonou/academic"
   spec.license       = "MIT"
 
