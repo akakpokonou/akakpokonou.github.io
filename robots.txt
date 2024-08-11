@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://akakpokonou.github.io/sitemap.xml
