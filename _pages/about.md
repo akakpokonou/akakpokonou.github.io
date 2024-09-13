@@ -28,7 +28,7 @@ I am a Ph.D. Student in economics at  [Simon Fraser University](https://www.sfu.
 <p align="justify">My research focuses on <strong> macroeconomics, Applied Econometrics. </strong> </p>
 
 
-<p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics, a Master's in Statistician and Economist Engineering, and a BSc. in Mathematics. I have worked as an Economist-Statistician at <a href='https://uqam.ca/'>The University of Quebec in Montreal</a>, <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href=' https://www.crs.org/'>The Catholic Relief Services</a>, <a href='https://inseed.tg/'>The National Statistics Office</a>, as well as at the Agricultural Research Institute for Development (IRAD_Cameroon).</p>
+<p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics, a Master's in Statistician and Economist Engineering, and a BSc. in Mathematics. I have worked as Research Assistant at <a href='https://uqam.ca/'>The University of Quebec in Montreal</a>, an Statistician_Economist at <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href='https://www.crs.org/'>The Catholic Relief Services</a>, <a href='https://inseed.tg/'>The National Statistics Office</a>, as well as at the Agricultural Research Institute for Development (IRAD_Cameroon).</p>
 
 <p>
 You can reach me at  <a href="mailto:%20akakpo_konou@sfu.ca"> akakpo_konou@sfu.ca</a>. Please see my <a href= "/assets/pdf/CV_Konou.pdf"> CV </a> for more details. </p>
