@@ -2,17 +2,17 @@
 layout: about
 title: About
 permalink: /
-#subtitle: <a href='https://www.umontreal.ca/'>University of Montreal</a>
+#subtitle: <a href='https://www.sfu.ca/'>Simon Fraser University</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>3150, Jean-Brillant Street</p>
-    <p>C-6061, Lionel Groulx Building, Montreal, QC, H3C 3J7, Canada</p>
+    <p> West Mall Centre 3602,</p>
+    <p>8888 University Drive, Burnaby, BC Canada V5A 1S6, Canada</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -22,16 +22,16 @@ social: false  # includes social icons at the bottom of the page
 <h4>Welcome to my home page!</h4>  
  <!-- <br/> est pour inserer une ligne vide -->
 <br/>
-I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.umontreal.ca/english/home/) and  a member of [CIREQ](https://cireqmontreal.com/). 
+I am a Ph.D. Student in economics at  [Simon Fraser University](https://www.sfu.ca/economics.html/). 
 
 
-<p align="justify">My research focuses on <strong> macroeconomics, public economics, international economics. </strong> I use quantitative models to address questions related to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens.   </p>
+<p align="justify">My research focuses on <strong> macroeconomics, Applied Econometrics. </strong> </p>
 
 
-<p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics and Statistics, and a BSc. in Applied Statistics. I have worked as an Economist-Statistician at <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href='https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>, and <a href='https://www.rtachesn.org/'>RTAC-USAID</a>, as well as at the National Statistics Office.</p>
+<p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics, a Master's in Statistician and Economist Engineering, and a BSc. in Mathematics. I have worked as an Economist-Statistician at <a href='https://uqam.ca/'>The University of Quebec in Montreal</a>, <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href=' https://www.crs.org/'>The Catholic Relief Services</a>, <a href='https://inseed.tg/'>The National Statistics Office</a>, as well as at the Agricultural Research Institute for Development (IRAD_Cameroon).</p>
 
 <p>
-You can reach me at  <a href="mailto:%20kodjo.koudakpo@umontreal.ca"> kodjo.koudakpo@umontreal.ca</a>. Please see my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV </a> for more details. </p>
+You can reach me at  <a href="mailto:%20akakpo_konou@sfu.ca"> akakpo_konou@sfu.ca</a>. Please see my <a href= "/assets/pdf/CV_Konou.pdf"> CV </a> for more details. </p>
 
 
 
