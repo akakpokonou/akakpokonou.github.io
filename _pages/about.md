@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 <h4>Welcome to my home page!</h4>  
  <!-- <br/> est pour inserer une ligne vide -->
 <br/>
-I am a Ph.D. Student in economics at  [Simon Fraser University](https://www.sfu.ca/economics.html/). 
+I am a Ph.D. Student in economics at [Simon Fraser University](https://www.sfu.ca/economics.html/). 
 
 
 <p align="justify">My research focuses on <strong> macroeconomics, Applied Econometrics. </strong> </p>
