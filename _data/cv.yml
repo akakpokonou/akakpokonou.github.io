@@ -63,29 +63,29 @@
          # contents:
          #   - Sub-description 1.
           #  - Sub-description 2.
-    - title: Monitoring Evaluation
-      institution: Research Technical Assistance Center (RTAC-USAID), Washington D.C., USA
-      year: 2020
+    - title: Monitoring Evaluation Accountability and Learning (MEAL)  
+      institution: Catholic Relief Services (CRS), Lome, Togo
+      year: 2017
       description:
        # - Description 1.
        # - Description 2.
 
-    - title: Statistician Consultant
-      institution: Junior Enterprise (ENSAE), Dakar, Senegal.
-      year: 2017
+    - title: Statistician Economist
+      institution: INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES ET DÉMOGRAPHIQUES (INSEED), Lome, Togo.
+      year: 2016 - 2017
 
-    - title: Economist (Intern)
-      institution: Central Bank of West African States (BCEAO-HQ), Dakar, Senegal
-      year: 2017
+    - title: Research Analyst (Intern)
+      institution: Bank of Central African States (BEAC), Yaounde, Cameroon
+      year: 2016
+      
+    - title: Statistician Economist (Intern)
+      institution: Institute of Agricultural Research for Development (IARD), Yaounde, Cameroon
+      year: 2015
       description: 
 
-    - title: Research Analyst 
-      institution: Laboratoire de Recherche Economiques et Monétaires (LAREM), LAREM, Senegal
-      year: 2016
-
-    - title: Research Analyst 
-      institution: Institut National de la Statistique, des Etudes Economiques et de la Démographie, Togo
-      year: 2014-2015
+    - title: Mathematics instructor in High school 
+      institution: Institut Polytechnique la Paix (IPP) and Lycée la Source, Lome, Togo
+      year: 2011-2013
 
  # - title: Open Source Projects
    # type: time_table
@@ -93,6 +93,38 @@
      # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
        # year: 2015-now
        # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: <strong> Honors and Awards </strong>
+  type: time_table
+  contents:
+    - year: 2019-Present
+      items: 
+        - Ph.D. Fellowship, Department of Economics, University of Montreal 
+        - Ph.D. Fellowship, CIREQ, University of Montreal 
+    - year: 2022
+      items: 
+        - World Bank Group VPU Team awards
+    - year: 2019-2021
+      items: 
+        - Tuition fees waiver Scholarship, University of Montreal 
+    - year: 2016-2018
+      items: 
+        - Excellence Scholarship, United Nations Development Programme 
+    - year: 2012-2018
+      items: 
+        - Tuition fees waiver Scholarship, ENSAE, Senegal
+    - year: 2012-2014
+      items: 
+        - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal
+       # - Ph.D. Fellowship, CIREQ, University of Montreal
+      # items: 
+       # - Excellence Scholarship, United Nations Development Programme
+   # - year: 2012-2016
+     #   items:
+     #   - Tuition fee waiver Scholarship,ENSAE, Senegal
+    #- year: 2012-2014
+    #    items: 
+     #   - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal 
 
 - title: <strong> Fellowships, Honors and Awards </strong>
   type: time_table
@@ -125,7 +157,6 @@
     #- year: 2012-2014
     #    items: 
      #   - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal 
-    
 
 - title: <strong> Other Interests </strong>
   type: list
