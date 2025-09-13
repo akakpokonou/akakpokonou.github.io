@@ -7,7 +7,6 @@
       value: #14th March 1879
     - name: Languages
       value: English, French, Ewe
-
 - title: <strong> Education </strong>
   type: time_table
   contents:
@@ -33,7 +32,6 @@
       description:
         #- Description 1.
         #- Description 2.
-
 - title:  <strong> Experience </strong>
   type: time_table
   contents:
@@ -69,31 +67,25 @@
       description:
        # - Description 1.
        # - Description 2.
-
     - title: Statistician Economist
       institution: INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES ET DÉMOGRAPHIQUES (INSEED), Lome, Togo.
       year: 2016 - 2017
-
     - title: Research Analyst (Intern)
       institution: Bank of Central African States (BEAC), Yaounde, Cameroon
       year: 2016
-      
     - title: Research Analyst (Intern)
       institution: Institute of Agricultural Research for Development (IARD), Yaounde, Cameroon
       year: 2015
       description: 
-
     - title: Mathematics instructor in High school 
       institution: Institut Polytechnique la Paix (IPP) and Lycée la Source, Lome, Togo
       year: 2011-2013
-
  # - title: Open Source Projects
    # type: time_table
    # contents:
      # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
        # year: 2015-now
        # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: <strong> Honors and Awards </strong>
   type: time_table
   contents:
@@ -122,7 +114,6 @@
     - year: 2008-2012
       items: 
         - Government Grant, University of Lome, Togo
-    
 - title: <strong> Volunteering, Commitees and Community engagment </strong>
   type: time_table
   contents:
@@ -145,7 +136,6 @@
       items: 
         - M.Sc. Fellowship, Department of Economics, University of Quebec in Montreal
         - Research Group on Human Capital, UQAM
-
 - title: <strong> Other Interests </strong>
   type: list
   contents:
