@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Kodjo KOUDAKPO
+      value: Akakpo Domefa Konou
     - name: #Date of Birth
       value: #14th March 1879
     - name: Languages
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD Candidate in Economics
-      institution: University of Montreal, Canada
-      year: 2019-2025 (Expected)
+      institution: Simon Fraser University, Burnaby, Canada
+      year: 2023-2029 (Expected)
       description:
         #- Description 1.
         #- Description 2.
@@ -21,14 +21,14 @@
          # contents:
          #   - Sub-description 1.
          #   - Sub-description 2.
-    - title: MSc. in Statistics and Economics 
-      institution: National School of Statistics and Economic Analysis, Dakar, Senegal
-      year: 2018
+    - title: MSc. in Economics 
+      institution: University of Quebec in Montreal, Montreal, Canada
+      year: 2022
       description:
         #- Description 1.
         #- Description 2.
-    - title: BSc. in Applied Statistics  
-      institution: National School of Statistics and Economic Analysis, Dakar, Senegal
+    - title: MSc. in Applied Statistics  
+      institution: Sub-regional Institute of Statistics and Applied Economics (ISSEA), Yaounde, Cameroon
       year: 2016
       description:
         #- Description 1.
@@ -38,8 +38,8 @@
   type: time_table
   contents:
     - title: Economist-Statistician Consultant
-      institution: World Bank Group, Macro -Trade and Investment, Global Practice, Washington DC, USA
-      year: 2023-2024
+      institution: World Bank Group, Prosperity – Economic Policies, Washington DC, USA
+      year: 2023 - 2024
       description:
        # - Description 1.
        # - Description 2.
@@ -48,8 +48,8 @@
          #   - Sub-description 1.
           #  - Sub-description 2.
     - title: Research Assistant
-      institution: Observatoire de la Francophonie Economique, Montreal, Canada
-      year: 2023
+      institution: University of Quebec in Montreal, Montreal, Canada
+      year: 2021 - 2023
       description:
        # - Description 1.
        # - Description 2.
@@ -63,7 +63,7 @@
          # contents:
          #   - Sub-description 1.
           #  - Sub-description 2.
-    - title: Research Consultant
+    - title: Monitoring Evaluation
       institution: Research Technical Assistance Center (RTAC-USAID), Washington D.C., USA
       year: 2020
       description:
