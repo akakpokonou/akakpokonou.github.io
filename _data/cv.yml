@@ -1,19 +1,20 @@
+
 - title: <strong> General Information </strong>
   type: map
   contents:
     - name: Full Name
-      value: Akakpo Domefa Konou
+      value: Kodjo KOUDAKPO
     - name: #Date of Birth
       value: #14th March 1879
     - name: Languages
       value: English, French, Ewe
-      
+
 - title: <strong> Education </strong>
   type: time_table
   contents:
     - title: PhD Candidate in Economics
-      institution: Simon Fraser University, Burnaby, Canada
-      year: 2023-2029 (Expected)
+      institution: University of Montreal, Canada
+      year: 2019-2025 (Expected)
       description:
         #- Description 1.
         #- Description 2.
@@ -21,25 +22,25 @@
          # contents:
          #   - Sub-description 1.
          #   - Sub-description 2.
-    - title: MSc. in Economics 
-      institution: University of Quebec in Montreal, Montreal, Canada
-      year: 2022
+    - title: MSc. in Statistics and Economics 
+      institution: National School of Statistics and Economic Analysis, Dakar, Senegal
+      year: 2018
       description:
         #- Description 1.
         #- Description 2.
     - title: MSc. in Applied Statistics  
-      institution: Sub-regional Institute of Statistics and Applied Economics (ISSEA), Yaounde, Cameroon
+      institution: National School of Statistics and Economic Analysis, Dakar, Senegal
       year: 2016
       description:
         #- Description 1.
         #- Description 2.
-        
+
 - title:  <strong> Experience </strong>
   type: time_table
   contents:
     - title: Economist-Statistician Consultant
-      institution: World Bank Group, Prosperity – Economic Policies, Washington DC, USA
-      year: 2023 - 2024
+      institution: World Bank Group, Macro -Trade and Investment, Global Practice, Washington D.C., USA
+      year: 2023-2024
       description:
        # - Description 1.
        # - Description 2.
@@ -48,14 +49,14 @@
          #   - Sub-description 1.
           #  - Sub-description 2.
     - title: Research Assistant
-      institution: University of Quebec in Montreal, Montreal, Canada
-      year: 2021 - 2023
+      institution: Observatoire de la Francophonie Economique, Montreal, Canada
+      year: 2023
       description:
        # - Description 1.
        # - Description 2.
     - title: Economist-Statistician Consultant
-      institution: World Bank Group, Poverty and Equity, Global Practice, Washington DC, USA
-      year: 2018 - 2022
+      institution: World Bank Group, Poverty and Equity, Global Practice, Washington D.C., USA
+      year: 2018 - 2023
       description:
        # - Description 1.
        # - Description 2.
@@ -63,72 +64,70 @@
          # contents:
          #   - Sub-description 1.
           #  - Sub-description 2.
-    - title: Monitoring Evaluation Accountability and Learning (MEAL)  
-      institution: Catholic Relief Services (CRS), Lome, Togo
-      year: 2017
+    - title: Research Consultant
+      institution: Research Technical Assistance Center (USAID-RTAC), Washington D.C., USA
+      year: 2020
       description:
        # - Description 1.
        # - Description 2.
-    - title: Statistician Economist
-      institution: INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES ET DÉMOGRAPHIQUES (INSEED), Lome, Togo.
-      year: 2016 - 2017
-    - title: Research Analyst (Intern)
-      institution: Bank of Central African States (BEAC), Yaounde, Cameroon
-      year: 2016
-    - title: Research Analyst (Intern)
-      institution: Institute of Agricultural Research for Development (IARD), Yaounde, Cameroon
-      year: 2015
+
+    - title: Statistician Consultant
+      institution: Junior Enterprise (ENSAE), Dakar, Senegal.
+      year: 2017
+
+    - title: Economist (Intern)
+      institution: Central Bank of West African States (BCEAO-HQ), Dakar, Senegal
+      year: 2017
       description: 
-    - title: Mathematics instructor in High school 
-      institution: Institut Polytechnique la Paix (IPP) and Lycée la Source, Lome, Togo
-      year: 2011-2013
+
+    - title: Research Analyst 
+      institution: Laboratoire de Recherche Economiques et Monétaires (LAREM), LAREM, Senegal
+      year: 2016
+
+    - title: Research Assistant 
+      institution: Institut National de la Statistique, des Etudes Economiques et de la Démographie, Togo
+      year: 2014-2015
+
  # - title: Open Source Projects
    # type: time_table
    # contents:
      # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
        # year: 2015-now
        # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-       
-- title: <strong> Honors and Awards </strong>
+
+- title: <strong> Fellowships, Honors and Awards </strong>
   type: time_table
   contents:
-    - year: 2025-2026
+    - year: 2019-2023
       items: 
-        - SSHRC Canada Graduate Scholarship – Doctoral Award
-        - Ph.D. Research Scholarship, Simon Fraser University
-        - Ph.D. Graduate Fellowship, Simon Fraser University
-    - year: 2024-2025
+        - Ph.D. Fellowship, Department of Economics, University of Montreal 
+        - Ph.D. Fellowship, CIREQ, University of Montreal 
+    - year: 2022
       items: 
-        - Ph.D. Research Scholarship, Simon Fraser University
-        - Ph.D. Graduate Fellowship, Simon Fraser University
-    - year: 2023-2024
+        - World Bank Group VPU Team awards
+    - year: 2019-2021
       items: 
-        - BC Graduate Scholarship (BCGS)
-        - Ph.D. Research Scholarship, Simon Fraser University
-        - Ph.D. Graduate Fellowship, Simon Fraser University
-    - year: 2019-2022
+        - Tuition fees waiver Scholarship, University of Montreal 
+    - year: 2016-2018
       items: 
-        - Tuition fees waiver Scholarship, University of Quebec in Montreal 
-        - M.Sc. Research Scholarship, University of Quebec in Montreal 
-    - year: 2013-2016
+        - Excellence Scholarship, United Nations Development Programme 
+    - year: 2012-2018
       items: 
-        - Tuition fees waiver Scholarship, ISSEA, Cameroon
-        - Centre d'Études Diplomatiques et Stratégiques (CEDS-CAPESA) grant, ISSEA, Cameroon
-    - year: 2008-2012
+        - Tuition fees waiver Scholarship, ENSAE, Senegal
+    - year: 2012-2014
       items: 
-        - Government Grant, University of Lome, Togo
-        
-- title: <strong> Fellowships </strong>
-  type: time_table
-  contents:
-    - year: 2023-Present
-      items: 
-        - Ph.D. Fellowship, Department of Economics, Simon Fraser University 
-    - year: 2019-2022
-      items: 
-        - M.Sc. Fellowship, Department of Economics, University of Quebec in Montreal
-        - Research Group on Human Capital, UQAM
-        
+        - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal
+       # - Ph.D. Fellowship, CIREQ, University of Montreal
+      # items: 
+       # - Excellence Scholarship, United Nations Development Programme
+   # - year: 2012-2016
+     #   items:
+     #   - Tuition fee waiver Scholarship,ENSAE, Senegal
+    #- year: 2012-2014
+    #    items: 
+     #   - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal 
+    
+
 - title: <strong> Other Interests </strong>
   type: list
   contents:
