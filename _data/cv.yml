@@ -114,12 +114,11 @@
     - year: 2019-2022
       items: 
         - Tuition fees waiver Scholarship, University of Quebec in Montreal 
-    - year: 2016-2018
-      items: 
-        - Excellence Scholarship, United Nations Development Programme 
+        - M.Sc. Research Scholarship, University of Quebec in Montreal 
     - year: 2013-2016
       items: 
         - Tuition fees waiver Scholarship, ISSEA, Cameroon
+        - Centre d'Études Diplomatiques et Stratégiques (CEDS-CAPESA) grant, ISSEA, Cameroon
     - year: 2008-2012
       items: 
         - Government Grant, University of Lome, Togo
@@ -132,29 +131,29 @@
     #- year: 2012-2014
     #    items: 
      #   - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal 
-
-- title: <strong> Fellowships, Honors and Awards </strong>
+     
+- title: <strong> Volunteering, Commitees and Community engagment </strong>
   type: time_table
   contents:
-    - year: 2019-Present
+    - year: 2025 - 2026
       items: 
-        - Ph.D. Fellowship, Department of Economics, University of Montreal 
-        - Ph.D. Fellowship, CIREQ, University of Montreal 
-    - year: 2022
+        - SSHRC Canada Graduate Scholarship – Doctoral Award
+        - Ph.D. Research Scholarship, Simon Fraser University
+        - Ph.D. Graduate Fellowship, Simon Fraser University
+    - year: 2024 - 2025
       items: 
-        - World Bank Group VPU Team awards
-    - year: 2019-2021
+        - Ph.D. Research Scholarship, Simon Fraser University
+        - Ph.D. Graduate Fellowship, Simon Fraser University
+- title: <strong> Fellowships </strong>
+  type: time_table
+  contents:
+    - year: 2023-Present
       items: 
-        - Tuition fees waiver Scholarship, University of Montreal 
-    - year: 2016-2018
+        - Ph.D. Fellowship, Department of Economics, Simon Fraser University 
+   - year: 2019-2022
       items: 
-        - Excellence Scholarship, United Nations Development Programme 
-    - year: 2012-2018
-      items: 
-        - Tuition fees waiver Scholarship, ENSAE, Senegal
-    - year: 2012-2014
-      items: 
-        - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal
+        - M.Sc. Fellowship, Department of Economics, University of Quebec in Montreal
+        - Research Group on Human Capital, UQAM
        # - Ph.D. Fellowship, CIREQ, University of Montreal
       # items: 
        # - Excellence Scholarship, United Nations Development Programme
