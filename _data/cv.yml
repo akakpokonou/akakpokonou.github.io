@@ -78,7 +78,7 @@
       institution: Bank of Central African States (BEAC), Yaounde, Cameroon
       year: 2016
       
-    - title: Statistician Economist (Intern)
+    - title: Research Analyst (Intern)
       institution: Institute of Agricultural Research for Development (IARD), Yaounde, Cameroon
       year: 2015
       description: 
@@ -97,25 +97,32 @@
 - title: <strong> Honors and Awards </strong>
   type: time_table
   contents:
-    - year: 2019-Present
+    - year: 2025 - 2026
       items: 
-        - Ph.D. Fellowship, Department of Economics, University of Montreal 
-        - Ph.D. Fellowship, CIREQ, University of Montreal 
-    - year: 2022
+        - SSHRC Canada Graduate Scholarship – Doctoral Award
+        - Ph.D. Research Scholarship, Simon Fraser University
+        - Ph.D. Graduate Fellowship, Simon Fraser University
+    - year: 2024 - 2025
       items: 
-        - World Bank Group VPU Team awards
-    - year: 2019-2021
+        - Ph.D. Research Scholarship, Simon Fraser University
+        - Ph.D. Graduate Fellowship, Simon Fraser University
+    - year: 2023 - 2024
       items: 
-        - Tuition fees waiver Scholarship, University of Montreal 
+        - BC Graduate Scholarship (BCGS)
+        - Ph.D. Research Scholarship, Simon Fraser University
+        - Ph.D. Graduate Fellowship, Simon Fraser University
+    - year: 2019-2022
+      items: 
+        - Tuition fees waiver Scholarship, University of Quebec in Montreal 
     - year: 2016-2018
       items: 
         - Excellence Scholarship, United Nations Development Programme 
-    - year: 2012-2018
+    - year: 2013-2016
       items: 
-        - Tuition fees waiver Scholarship, ENSAE, Senegal
-    - year: 2012-2014
+        - Tuition fees waiver Scholarship, ISSEA, Cameroon
+    - year: 2008-2012
       items: 
-        - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal
+        - Government Grant, University of Lome, Togo
        # - Ph.D. Fellowship, CIREQ, University of Montreal
       # items: 
        # - Excellence Scholarship, United Nations Development Programme
