@@ -7,6 +7,7 @@
       value: #14th March 1879
     - name: Languages
       value: English, French, Ewe
+      
 - title: <strong> Education </strong>
   type: time_table
   contents:
@@ -32,6 +33,7 @@
       description:
         #- Description 1.
         #- Description 2.
+        
 - title:  <strong> Experience </strong>
   type: time_table
   contents:
@@ -86,6 +88,7 @@
      # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
        # year: 2015-now
        # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+       
 - title: <strong> Honors and Awards </strong>
   type: time_table
   contents:
@@ -114,28 +117,18 @@
     - year: 2008-2012
       items: 
         - Government Grant, University of Lome, Togo
-- title: <strong> Volunteering, Commitees and Community engagment </strong>
-  type: time_table
-  contents:
-    - year: 2025 - 2026
-      items: 
-        - SSHRC Canada Graduate Scholarship – Doctoral Award
-        - Ph.D. Research Scholarship, Simon Fraser University
-        - Ph.D. Graduate Fellowship, Simon Fraser University
-    - year: 2024 - 2025
-      items: 
-        - Ph.D. Research Scholarship, Simon Fraser University
-        - Ph.D. Graduate Fellowship, Simon Fraser University
+        
 - title: <strong> Fellowships </strong>
   type: time_table
   contents:
     - year: 2023-Present
       items: 
         - Ph.D. Fellowship, Department of Economics, Simon Fraser University 
-   - year: 2019-2022
+    - year: 2019-2022
       items: 
         - M.Sc. Fellowship, Department of Economics, University of Quebec in Montreal
         - Research Group on Human Capital, UQAM
+        
 - title: <strong> Other Interests </strong>
   type: list
   contents:
